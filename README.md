@@ -32,7 +32,7 @@
 <li>We have developed our security system using ESP-8266 as our base.</li>
 <li>So to ensure or enhance the security we have interfaced using a few sensors. To name a few like DHT11(thermal sensor), RKI-3100(flame sensor) etc.</li>
 <li>So if the threshold value of the sensor is exceeded then we have added buzzers to alert the owner to check and take necessary actions.</li>
-<li>You can also control the working of fasn, light, etc from either the web-dashboard or mobile-app.</li>
+<li>You can also control the working of fans, lights, etc from either the web-dashboard or mobile-app.</li>
 <li>The same can be controlled using Alexa using voice control and through text as well.</li>
 <hr></hr>
 
