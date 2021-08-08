@@ -2,16 +2,16 @@
 
 ## Contents
 
-<li>Home Automation System: https://github.com/srini047/-HomeSafetyandAutomationSystem/blob/main/README.md#homesafetyandautomationsystem</li>
-<li>Problem Statement: https://github.com/srini047/-HomeSafetyandAutomationSystem/blob/main/README.md#problem-statement</li>
-<li>Ideology and Abstract: https://github.com/srini047/-HomeSafetyandAutomationSystem/blob/main/README.md#idealogy-and-abstract</li>
-<li>Hardware Requirements: https://github.com/srini047/-HomeSafetyandAutomationSystem/blob/main/README.md#hardware-components</li>
-<li>Software Requirements: https://github.com/srini047/-HomeSafetyandAutomationSystem/blob/main/README.md#software-requirements</li>
-<li>Block Diagram: https://github.com/srini047/-HomeSafetyandAutomationSystem/blob/main/README.md#blockdiagram</li>
-<li>Working: https://github.com/srini047/-HomeSafetyandAutomationSystem/blob/main/README.md#working</li>
-<li>Video Demonstrations: https://github.com/srini047/-HomeSafetyandAutomationSystem/blob/main/README.md#video-demonstrations</li>
-<li>Future Scope: https://github.com/srini047/-HomeSafetyandAutomationSystem/blob/main/README.md#future-scope</li>
-<li>Codes: </li>
+<li>Home Automation System: https://github.com/srini047/HomeSafetyandAutomationSystem/blob/main/README.md#homesafetyandautomationsystem</li>
+<li>Problem Statement: https://github.com/srini047/HomeSafetyandAutomationSystem/blob/main/README.md#problem-statement</li>
+<li>Ideology and Abstract: https://github.com/srini047/HomeSafetyandAutomationSystem/blob/main/README.md#idealogy-and-abstract</li>
+<li>Hardware Requirements: https://github.com/srini047/HomeSafetyandAutomationSystem/blob/main/README.md#hardware-components</li>
+<li>Software Requirements: https://github.com/srini047/HomeSafetyandAutomationSystem/blob/main/README.md#software-requirements</li>
+<li>Block Diagram: https://github.com/srini047/HomeSafetyandAutomationSystem/blob/main/README.md#blockdiagram</li>
+<li>Working (Images): https://github.com/srini047/HomeSafetyandAutomationSystem/blob/main/README.md#working</li>
+<li>Video Demonstrations: https://github.com/srini047/HomeSafetyandAutomationSystem/blob/main/README.md#video-demonstrations</li>
+<li>Future Scope: https://github.com/srini047/HomeSafetyandAutomationSystem/blob/main/README.md#future-scope</li>
+<li>Code: </li>
 
 <hr></hr>
 
